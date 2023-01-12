@@ -17,7 +17,7 @@ while (key != ConsoleKey.Escape)
 
     peopleManager.Add(newPerson);
 }
-
+//
 var all = peopleManager.GetAll();
 Console.WriteLine("==========================================");
 
